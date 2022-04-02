@@ -1,0 +1,3 @@
+[submodule "misty-ut-tool"]
+	path = misty-ut-tool
+	url = https://github.com/Aery9527/misty-ut-tool.git
